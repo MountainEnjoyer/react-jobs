@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "adc6",
-      "title": "Zakary's Dream",
-      "type": "Internship",
-      "location": "Geneva, Switzerland",
-      "description": "Join an awesome tech company to gain knowledge and money with",
-      "salary": "Over $200K",
-      "company": {
-        "name": "Awesome ForSure",
-        "description": "We're awesome ;)",
-        "contactEmail": "awesome@geneva.ch",
-        "contactPhone": "none"
-      }
     }
   ]
 }
