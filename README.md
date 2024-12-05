@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React Jobs
+This Repository is the code base of a simple site simulating a Job Application Market ( without auth ).
+It uses Json as the backend DataBase and Vite, React and TailWindCSS for the mix up and the Front End.
+It was my first site on React. Built it with this [Tutorial](youtube.com)
